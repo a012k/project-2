@@ -1,0 +1,61 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital@1&family=Roboto+Slab:wght@400;500&family=Rubik+Marker+Hatch&display=swap');
+body{
+    background-image: url(./photo-1583339972074-a01b1a10b693.avif);
+background-repeat: no-repeat;
+background-size: cover;
+}
+div
+    {
+    height: 501px;
+    width: 31%;
+    border: 3px;
+    font-size: medium;
+    font-family: 'Rubik Marker Hatch', cursive;
+
+ 
+}
+button
+{
+    background-color :deeppink;
+    width: 246px;
+    border-radius: 20px;
+    height: 88px;
+   
+}
+button:hover{
+    background-color: white;
+    color: darkred;
+}
+
+img{
+    width: 100%;
+    height: 539px;
+}
+img:hover{
+    color:cornflowerblue 
+}
+span{
+    color: white;
+}
+h1
+{
+    text-align: center;
+}
+
+span1
+{
+    color:red;
+
+}
+.box {
+    width: 100px;
+    margin-left: 10px;
+    margin-top: 0px;
+    padding: 5px;
+    border: 2px solid black;
+}
+h3{
+    width: 246px;
+    height: 88px;
+}
